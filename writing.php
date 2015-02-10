@@ -4,9 +4,10 @@
 	<p><a href="http://www.publish2.com/journalists/aram-jason-zucker-scharff/clips/" target="_blank">A link to clips on Publish2</a></p>
 	<p><a href="http://aramzs.me" target="_blank">One place to find any articles or blogposts published by me on any site.</a></p>
     
-    <p><a href="http://nightmaremode.net/author/aramzs/" title="Aram Zucker-Scharff on Nightmare Mode" target="_blank">My articles on Nightmare Mode.</a></p>
+    <p><a href="http://nightmaremode.thegamerstrust.com/author/aram-zucker-scharff/" title="Aram Zucker-Scharff on Nightmare Mode" target="_blank">My articles on Nightmare Mode.</a></p>
 	
 	<h4>Non-fiction:</h4>
+	<p><a href="http://aramzs.kinja.com/journalism-from-location-without-destination-1678062000" target="_blank">Journalism From Location, Without Destination.</a></p>
     <p><a href="http://aramzs.me/97" target="_blank">Feedback Loop: Many choices, or none, make a game</a>. Nightmare Mode.</p>
     <p><a href="http://aramzs.me/98" target="_blank">How Facebook's Timeline Will Change Everything</a>. Hack Text.</p>
 	<p><a href="http://aramzs.me/4k" target="_blank">A WordPress Theme for Taking Notes on Your Kindle</a>. Chronicle of Higher Education online.</p>

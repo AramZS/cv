@@ -63,7 +63,7 @@
 			</div>			
 			<div class="findme">
 				Find me online
-					<img class="profileImg" src="https://pbs.twimg.com/profile_images/378800000500780954/34f1070683e2672561f737ba8ed79ea1_bigger.jpeg" width="95px" height="95px" alt="Find me online" title="Find me online">
+					<img class="profileImg" src="https://pbs.twimg.com/profile_images/564831082005028864/sfapoS6M_400x400.jpeg" width="95px" height="95px" alt="Find me online" title="Find me online">
 					
 					<span class="social-icon"><a href="http://bit.ly/aramzs" target="_blank"><img src="imgs/socialmedia16/linkedin.png" width="16px" height="16px" class="miniicon" alt="icon"></a></span>
 					<span class="social-icon" style="left:27%"><a href="http://twitter.com/chronotope" target="_blank"><img src="imgs/socialmedia16/twitter.png" width="16px" height="16px" class="miniicon" alt="icon"></a></span>
