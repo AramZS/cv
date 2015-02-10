@@ -64,8 +64,8 @@
 			</div>			
 			 <div id="loc-info">
 			
-			10919 Santa Clara Dr<br />
-			Fairfax, VA 22030<br />
+			2-14 50th Ave<br />
+			Long Island City, NY<br />
 			703-829-0532<br />
 			azuckers@gmu.edu
 
