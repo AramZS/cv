@@ -1,0 +1,401 @@
+ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	background: transparent;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+
+		  html {
+                background: #ccc;
+            }
+            body {
+                width: 75%;
+                margin: 20px auto;
+                padding: 5%;
+                background: white;
+                -moz-border-radius: 20px;
+                -webkit-border-radius: 20px;
+                -o-border-radius: 20px;
+                border-radius: 20px;
+				line-height: 21px;
+				min-width:600px;
+				font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;			
+            }
+			
+			.main a {
+			
+			text-decoration: none;
+			color: #146C91;
+			
+			}
+			
+			.main a:visited {
+			
+			text-decoration: none;
+			color: #4e6d32;
+			
+			}
+			
+			header {
+			
+				font-family:"Times New Roman",Georgia,Serif;
+			
+			}
+			
+			header li {
+			
+				padding-bottom: 0px;
+				
+			}
+			
+			header h1 a {
+			
+				
+				color: black;
+			
+			}
+			
+			p {
+			
+				font-size: 16px;
+				margin-top: 1em;
+				margin-bottom: 1em;
+				display: block;
+			
+			}
+			
+			h1 {
+				width: 315px;
+				font-size: 2em;
+				display: block;
+				margin-top: .67em;
+				margin-bottom: .67em;
+				font-weight: bold;
+			}
+			
+			h2 {
+			
+				font-family: 'Playfair Display', serif;
+				display: block;
+				font-size: 1.5em;
+				margin-top: 0.83em;
+				margin-bottom: 0.83em;
+				font-weight: bold;
+				
+			}
+			
+			h3 {
+			
+				font-family: 'Playfair Display', serif;
+				size:18px;
+				display:block;
+				font-size: 1.17em;
+				font-weight: bold;
+				margin-top:1em;
+				margin-bottom:1em;
+				
+			}
+			
+			i {
+			
+				font-family:"Times New Roman",Georgia,Serif;
+				font-style: italic;
+			
+			}
+			
+			ul {
+			
+				display:block;
+				margin-top: 1em;
+				margin-bottom: 1em;
+				padding-left: 40px;
+			
+			}
+			
+			li {
+			
+				padding-bottom:6px;
+				display: list-item;
+				list-style-type: disc;
+			
+			}
+			
+			ul li ul li {
+			
+				padding-bottom:6px;
+				display: list-item;
+				list-style-type: disc;
+			
+			}
+			
+			h4 {
+			
+				font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+				font-size: 18px;
+				
+				font-weight: bold;
+				margin-bottom: 1.33em;
+			
+			}
+			
+			h4 a {
+			
+				text-decoration: none;
+			
+			}
+			
+			h5 {
+			
+				font-style: italic;
+				margin-bottom: -4px;
+				padding-left: 1px;
+				display: block;
+				font-size: 0.83em;
+				margin-top: 1.67em;
+				font-weight: bold;
+			
+			}
+			
+			h6 {
+			
+				font-family:"Times New Roman",Georgia,Serif;
+				font-size:1.0em;
+				font-style: italic;
+				
+				margin-top: -1px;
+			
+			}
+			
+			h5.sites {
+			
+				margin-bottom: -20px;
+				margin-top: 1.20em;
+			
+			}
+
+			
+			span.title {
+			
+			font-family: 'Playfair Display', serif;
+			font-size: 1.1em;
+			
+			}
+			
+			span.sitetitle {
+			
+				font-style: italic;
+			
+			
+			}
+			
+			table b {
+			
+				font-size: 0.90em;
+			
+			}
+			
+			.navBar {
+				width: 90%;
+				
+				margin: 3px auto;
+				padding: 5%;
+				background: #C0EAED;
+				border: inset 3px; 
+			}
+			
+			.navBox {
+				float: left;
+			}
+
+			#nav1 {
+				float: left;
+			}
+			
+			#nav1 ul {
+			
+			padding-left: 6px;
+			border-left: 3px solid black;
+			
+			}
+			
+			#nav1 ul li {
+			
+			list-style-type: none;
+			border-left: 4px solid black;
+			padding-left: 7px;
+			margin-left: -9px;
+			
+			}
+			
+			#nav1 a {
+			
+			text-decoration: none;
+			color: #146C91;
+			
+			}
+			
+			#nav1 a:hover {
+			
+			color: #6F9F31;
+			
+			}
+			
+			#nav1 ul li a:hover {
+			
+			border-left: 4px solid #6F9F31;
+			padding-left: 7px;
+			margin-left: -11px;
+			
+			}
+			
+			.homelinks a, .homelinks a:visited, .homelinks a:hover{
+			
+				color: #463fB7;	
+				
+			}
+
+			.navContainer {
+			width: 100%;
+			overflow: auto;
+			}
+			
+			.photo-float {
+			
+			float: right;
+			margin-left: 12px;
+			border-left: 1px solid black;
+			padding-left: 16px;
+			margin-bottom: 10px;
+			
+			}
+			
+			
+			#loc-info {
+			
+				float: right;
+				width: 140px;
+				font-size: .95em;
+				line-height: 19px;
+				padding-top: 30px;
+				overflow: hidden;
+				
+			
+			}
+			
+			.findme {
+				float:right;
+				margin-right: 10px;
+				line-height: 10px;
+				width:105px;
+				position:relative;
+				display:block;
+				
+			}
+			
+			a.findme {
+				border: 0px;
+			}
+			
+			.findme .imgbacker {
+			
+				background-color: black;
+				filter:alpha(opacity=50);
+				-moz-opacity:0.5;
+				-khtml-opacity: 0.5;
+				opacity: 0.5;
+				position:absolute;
+				left:6%;
+				top:30%;
+			}
+			
+			.findme span.social-icon {
+			
+				visibility:hidden;
+				position:absolute;
+				left:6%;
+				top:30%;
+				float:left;
+				display:block;
+				/*filter:alpha(opacity=50);
+				-moz-opacity:0.5;
+				-khtml-opacity: 0.5;
+				opacity: 0.5;*/
+				margin-left: 5px;
+			
+			}
+			
+			.findme span.social-icon2 {
+			
+				/*visibility:hidden;*/
+				position:absolute;
+				left:6%;
+				top:47%;
+				float:left;
+				display:block;
+				margin-left: 5px;
+			
+			}
+			
+			.findme span.social-icon3 {
+			
+				/*visibility:hidden;*/
+				position:absolute;
+				left:6%;
+				top:64%;
+				float:left;
+				display:block;
+				margin-left: 5px;
+			
+			}
+			
+			.findme span.social-icon4 {
+			
+				/*visibility:hidden;*/
+				position:absolute;
+				left:6%;
+				top:73%;
+				float:left;
+				display:block;
+				margin-left: 5px;
+			
+			}
+			
+			.findme span.social-icon {
+			
+				visibility:visible;
+			
+			}
+			
+			.profileImg {
+				border: solid #6f9f31 4px;
+				margin: 10px 0px;
+			}
+			
+			.miniicon {
+				width: 16px;
+				float: left;
+			}
+            <!-- #35d2e5 -->
+			
+            
+			p.first:first-letter {
+				font-size: 200%;
+				font-family: 'EB Garamond', serif;
+				line-height: inherit;
+				padding-right: 1px;
+			}
+			
+			.right {
+			
+				text-align: right;
+			
+			}
+			
+			#footer {
+			
+				padding-top:20px;
+				border-top: 1px solid grey;
+			
+			}

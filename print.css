@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+header h1 {
+	
+	width:100%;
+	
+}
+
+.navContainer {
+	
+	display:none;
+	
+}
+
+html {
+	
+	background-color: white;
+	
+}
+
+.findmetext {
+	
+	display:none;
+	
+}
+
+.photo-float {
+	
+	display:none;
+	
+}
